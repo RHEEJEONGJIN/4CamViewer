@@ -1,3 +1,3 @@
 # 4CamViewer
 
-# Double Click mouseevent -> recording screen
+# Double Click Mouse Event -> Recording Screen
